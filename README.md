@@ -8,7 +8,7 @@ However, there are many critical problems associated with classical internet, su
 
 I’ve designed a quantum network framework and backed it with an elaborate implementation and simulation and used data analytics on the simulation data. I‘ve used **Qutech’s SimulaQron** for this purpose. It provides a fairly open and programmable framework to implement, which abstracts the nature of the underlying quantum communication technology.
 
-The ![report](https://github.com/arahant/Quantum-Networks/blob/master/report-aak700-quantum-networks.pdf) is divied into the following sections:
+The ![report](Quantum_Networks_Report.pdf) is divied into the following sections:
 1. Abstract
 1. Introduction
 1. Design
