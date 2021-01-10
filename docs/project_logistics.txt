@@ -1,0 +1,37 @@
+Proposal (Feb 21)
+============
+
+1 page describing the following:
+* The Project title
+* Team member names
+(Teams of 2 are highly recommended. Doing the project solo is OK, but will be much more work.)
+* One paragraph about what the research problem is.
+* One paragraph about how you'll go about solving it (simulation, emulation, theoretical analysis, implementation etc.)
+* One paragraph about what resources you'll need.
+* One paragraph with the schedule and which team member will do what.
+
+Checkpoint (Week following spring break: March 23 through 27)
+============
+* In-class presentation describing your work for about 15--20 minutes (depending on how many teams there are.)
+* By this point, you should at least have one
+  experimental/simulation/theoretical/implementation result that you can talk
+  about. It's OK (even preferable) if the result is small.
+
+Presentation (May 14)
+============
+* Poster presentation describing your completed work for about 15--20 minutes.
+
+Paper (due May 16)
+============
+* A 6-page paper describing your results. Here is one example of how to write a
+6-page paper (https://cs.nyu.edu/~anirudh/perf_query.pdf). It's not the only way,
+and you have considerable latitude here so long as the paper is clearly written.
+If you want me to look at a draft of the paper beforehand, I am happy to do that
+and give you early feedback.
+
+Project grading breakdown (project is itself worth 60% of the final grade)
+===================
+Proposal: 10%
+Checkpoint: 10%
+Presentation: 15%
+Paper: 25%
